@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Carolina Fulginiti",
+        "profession" : "Frontend Developer",
+        "photo" : "https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
+        "about_me" : "Holi.",
+        "skills": [
+        "Javascript",
+        "NodeJs",
+        "Angular",
+        "HTML",
+        "CSS",
+        "Excel"
+        ]
+    }
+]
